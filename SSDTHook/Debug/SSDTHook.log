@@ -1,0 +1,8 @@
+﻿  Building 'SSDTHook' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\SSDTHook.inf
+  Stamping [Version] section with DriverVer=04/17/2022,14.18.38.532
+  SSDTHook.c
+E:\Vstudio2019\SSDTHook\SSDTHook\SSDTHook.c(60,29): error C2220: 以下警告被视为错误
+E:\Vstudio2019\SSDTHook\SSDTHook\SSDTHook.c(60,29): warning C4047: “==”:“ULONG64”与“void *”的间接级别不同
+E:\Vstudio2019\SSDTHook\SSDTHook\SSDTHook.c(41,1): warning C4047: “初始化”:“PUCHAR”与“unsigned __int64”的间接级别不同
+E:\Vstudio2019\SSDTHook\SSDTHook\SSDTHook.c(91,23): warning C4018: “<”: 有符号/无符号不匹配
